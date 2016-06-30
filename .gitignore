@@ -1,0 +1,11 @@
+# compiled output
+/dist
+/tmp
+/data
+
+# dependencies
+/node_modules
+/bower_components
+
+# misc
+/notes
